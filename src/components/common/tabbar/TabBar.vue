@@ -14,9 +14,10 @@ export default {
 
 <style scoped>
     .tab-bar{
+        padding: 5px 0 0 0;
         width: 100vw;
         height: 49px;
-        background: turquoise;
+        background: #fafafa;
         display: flex;
         position: fixed;
         bottom: 0;
